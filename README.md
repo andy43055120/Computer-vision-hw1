@@ -23,7 +23,8 @@ drive.mount('/content/drive')
 
 The model is trained using a Jupyter Notebook in Google Colab.
 To train the model, open the notebook and run all cells sequentially until the cell shown below.
-<img width="831" height="720" alt="image" src="https://github.com/user-attachments/assets/3c15732d-5ee4-4d71-84cf-cb251fb9cb0f" />
+
+<img width="500" height="450" alt="image" src="https://github.com/user-attachments/assets/3c15732d-5ee4-4d71-84cf-cb251fb9cb0f" />
 
 
 ### Inference
